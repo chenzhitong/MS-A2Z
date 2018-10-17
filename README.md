@@ -2,17 +2,18 @@
 Empower every letter on the alphabet to achieve more.
 
 ## A
-- [Azure](https://azure.microsoft.com)
-- [ASP.NET](https://www.asp.net/)
+
 - [Access](https://products.office.com/zh-cn/access)
+- [ASP.NET](https://www.asp.net/)
+- [Azure](https://azure.microsoft.com)
 
 ## B
-- [Bing](https://www.bing.com/)
 - [Band](https://www.microsoft.com/en-us/band)
+- [Bing](https://www.bing.com/)
 
 ## C
-- [Cortana](https://www.microsoft.com/zh-cn/windows/Cortana)
 - [C#](https://docs.microsoft.com/zh-cn/dotnet/csharp/)
+- [Cortana](https://www.microsoft.com/zh-cn/windows/Cortana)
 - [Cosmos DB](https://azure.microsoft.com/zh-cn/services/cosmos-db/)
 
 ## D
@@ -26,8 +27,8 @@ Empower every letter on the alphabet to achieve more.
 - [Forms](https://forms.office.com/)
 
 ## G
-- [Groove Music](https://www.microsoft.com/en-us/p/groove-music/9wzdncrfj3pt)
 - [GitHub](https://github.com)
+- [Groove Music](https://www.microsoft.com/en-us/p/groove-music/9wzdncrfj3pt)
 
 ## H
 - [HoloLens](https://www.microsoft.com/zh-cn/hololens)
@@ -43,8 +44,9 @@ Empower every letter on the alphabet to achieve more.
 - [Kinect](https://www.xbox.com/zh-CN/xbox-one/accessories/kinect)
 
 ## L
-- [Lync](https://products.office.com/zh-cn/skype-for-business/online-meetings)
 - [Launcher](https://play.google.com/store/apps/details?id=com.microsoft.launcher&hl=en)
+- [LinkedIn](https://www.linkedin.com/)
+- [Lync](https://products.office.com/zh-cn/skype-for-business/online-meetings)
 
 ## M
 - [Microsoft](https://www.microsoft.com/)
@@ -55,14 +57,14 @@ Empower every letter on the alphabet to achieve more.
 
 ## O
 - [Office](https://products.office.com/zh-cn/home)
-- [OneNote](https://www.onenote.com/)
-- [OneDrive](https://onedrive.live.com/about/zh-cn/)
 - [Office Lens](https://www.microsoft.com/zh-cn/p/office-lens/9wzdncrfj3t8)
+- [OneDrive](https://onedrive.live.com/about/zh-cn/)
+- [OneNote](https://www.onenote.com/)
 
 ## P
-- [Project](https://products.office.com/en-us/project/project-and-portfolio-management-software)
-- [PowerPoint](https://products.office.com/zh-cn/powerpoint)
 - [Power BI](https://powerbi.microsoft.com/)
+- [PowerPoint](https://products.office.com/zh-cn/powerpoint)
+- [Project](https://products.office.com/en-us/project/project-and-portfolio-management-software)
 
 ## Q
 - [QBasic](https://en.wikipedia.org/wiki/QBasic)
@@ -71,17 +73,18 @@ Empower every letter on the alphabet to achieve more.
 - [Remote Desktop](https://www.microsoft.com/zh-cn/p/remote-desktop/9wzdncrdhxxh)
 
 ## S
+- [Selfie](https://itunes.apple.com/us/app/microsoft-selfie/id1064676206)
+- [SharePoint](https://products.office.com/en-us/sharepoint/collaboration)
+- [Skype](https://www.skype.com/)
+- [Sql Local DB](https://docs.microsoft.com/en-us/sql/database-engine/configure-windows/sql-server-2016-express-localdb)
+- [Sql Server](https://www.microsoft.com/zh-cn/sql-server/sql-server-downloads)
 - [Surface](https://www.microsoft.com/zh-cn/surface)
 - [Sway](https://sway.office.com/)
-- [SharePoint](https://products.office.com/en-us/sharepoint/collaboration)
-- [Selfie](https://itunes.apple.com/us/app/microsoft-selfie/id1064676206)
-- [Sql Server](https://www.microsoft.com/zh-cn/sql-server/sql-server-downloads)
-- [Sql Local DB](https://docs.microsoft.com/en-us/sql/database-engine/configure-windows/sql-server-2016-express-localdb)
 
 ## T
 - [Teams](https://products.office.com/zh-cn/microsoft-teams/group-chat-software)
-- [Translator](http://www.bing.com/Translator)
 - [To-Do List](https://todo.microsoft.com/)
+- [Translator](http://www.bing.com/Translator)
 - [Type Script](https://www.typescriptlang.org/)
 
 ## U
