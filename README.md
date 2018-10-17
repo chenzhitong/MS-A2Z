@@ -45,6 +45,7 @@ Empower every letter on the alphabet to achieve more.
 
 ## M
 - Microsoft
+- MSN
 
 ## N
 - NuGet
