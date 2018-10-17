@@ -26,4 +26,28 @@ Empower every letter on the alphabet to achieve more.
 ## H
 - HoloLens
 
-TODO: Intune, JScript, Kinect, Lync, Microsoft, NuGet, Office, Project, QBasic, RDP, Surface, Teams, Uwp, Visio, Windows, Xbox, Yammer, Zune
+## I
+- Intune
+
+## J
+- JScript
+
+## K
+- Kinect
+
+## L
+- Lync
+
+## M
+- Microsoft
+
+## N
+- NuGet
+
+## O
+- Office
+
+## P
+- Project
+
+QBasic, RDP, Surface, Teams, Uwp, Visio, Windows, Xbox, Yammer, Zune
