@@ -57,6 +57,7 @@ Empower every letter on the alphabet to achieve more.
 - [OneNote](https://www.onenote.com/)
 - [OneDrive](https://onedrive.live.com/about/zh-cn/)
 - [Office Lens](https://www.microsoft.com/zh-cn/p/office-lens/9wzdncrfj3t8)
+- [Outlook](https://outlook.live.com/)
 
 ## P
 - [Project](https://products.office.com/en-us/project/project-and-portfolio-management-software)
@@ -71,6 +72,7 @@ Empower every letter on the alphabet to achieve more.
 
 ## S
 - [Surface](https://www.microsoft.com/zh-cn/surface)
+- [Skype](https://www.skype.com)
 - [Sway](https://sway.office.com/)
 - [SharePoint](https://products.office.com/en-us/sharepoint/collaboration)
 - [Selfie](https://itunes.apple.com/us/app/microsoft-selfie/id1064676206)
@@ -97,6 +99,7 @@ Empower every letter on the alphabet to achieve more.
 - [Windows Phone](https://en.wikipedia.org/wiki/Windows_Phone)
 
 ## X
+- [Xamarin](https://visualstudio.microsoft.com/xamarin)
 - [Xbox](https://www.xbox.com/zh-CN)
 
 ## Y
