@@ -72,6 +72,7 @@ Empower every letter on the alphabet to achieve more.
 
 ## S
 - [Surface](https://www.microsoft.com/zh-cn/surface)
+- [Skype](https://www.skype.com)
 - [Sway](https://sway.office.com/)
 - [SharePoint](https://products.office.com/en-us/sharepoint/collaboration)
 - [Selfie](https://itunes.apple.com/us/app/microsoft-selfie/id1064676206)
