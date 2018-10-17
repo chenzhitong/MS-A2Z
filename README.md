@@ -2,9 +2,28 @@
 Empower every letter on the alphabet to achieve more.
 
 ## A
-Azure
-ASP.NET
+- Azure
+- ASP.NET
 
 ## B
+- Bing
 
-TODO: Azure, Bing, Cortana, Dynamics, Edge, Forms, Groove, HoloLens, Intune, JScript, Kinect, Lync, Microsoft, NuGet, Office, Project, QBasic, RDP, Surface, Teams, Uwp, Visio, Windows, Xbox, Yammer, Zune
+## C
+- Cortana
+
+## D
+- Dynamics
+
+## E
+- Edge
+
+## F
+- Forms
+
+## G
+- Groove
+
+## H
+- HoloLens
+
+TODO: Intune, JScript, Kinect, Lync, Microsoft, NuGet, Office, Project, QBasic, RDP, Surface, Teams, Uwp, Visio, Windows, Xbox, Yammer, Zune
