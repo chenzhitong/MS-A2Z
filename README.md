@@ -57,6 +57,7 @@ Empower every letter on the alphabet to achieve more.
 - OneNote
 - OneDrive
 - Office Lens
+- Outlook
 
 ## P
 - Project
