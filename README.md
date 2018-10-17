@@ -64,6 +64,7 @@ Empower every letter on the alphabet to achieve more.
 - [Office Lens](https://www.microsoft.com/zh-cn/p/office-lens/9wzdncrfj3t8)
 - [OneDrive](https://onedrive.live.com/about/zh-cn/)
 - [OneNote](https://www.onenote.com/)
+- [Outlook](https://products.office.com/zh-cn/outlook/)
 
 ## P
 - [Power BI](https://powerbi.microsoft.com/)
