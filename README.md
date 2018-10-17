@@ -99,6 +99,7 @@ Empower every letter on the alphabet to achieve more.
 - [Windows Phone](https://en.wikipedia.org/wiki/Windows_Phone)
 
 ## X
+- [Xamarin](https://visualstudio.microsoft.com/xamarin)
 - [Xbox](https://www.xbox.com/zh-CN)
 
 ## Y
