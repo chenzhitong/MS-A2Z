@@ -12,6 +12,8 @@ Empower every letter on the alphabet to achieve more.
 
 ## C
 - Cortana
+- C#
+- Cosmos DB
 
 ## D
 - Dynamics
@@ -72,6 +74,8 @@ Empower every letter on the alphabet to achieve more.
 - Sway
 - SharePoint
 - Selfie
+- Sql Server
+- Sql Local DB
 
 ## T
 - Teams
