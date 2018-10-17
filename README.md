@@ -13,6 +13,7 @@ Empower every letter on the alphabet to achieve more.
 ## B
 - [Band](https://www.microsoft.com/en-us/band)
 - [Bing](https://www.bing.com/)
+- [Bland](https://msdn.microsoft.com/zh-cn/library/jj171012.aspx)
 
 ## C
 - [C#](https://docs.microsoft.com/zh-cn/dotnet/csharp/)
@@ -103,6 +104,7 @@ Empower every letter on the alphabet to achieve more.
 - [Windows](https://www.microsoft.com/zh-cn/windows)
 - [Windows Mobile](https://en.wikipedia.org/wiki/Windows_10_Mobile)
 - [Windows Phone](https://en.wikipedia.org/wiki/Windows_Phone)
+- [Word](https://products.office.com/zh-cn/word)
 
 ## X
 - [Xbox](https://www.xbox.com/zh-CN)
