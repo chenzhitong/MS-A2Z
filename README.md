@@ -53,7 +53,6 @@ Empower every letter on the alphabet to achieve more.
 - [NuGet](https://www.nuget.org/)
 
 ## O
-
 - [Office](https://products.office.com/zh-cn/home)
 - [OneNote](https://www.onenote.com/)
 - [OneDrive](https://onedrive.live.com/about/zh-cn/)
