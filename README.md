@@ -78,6 +78,7 @@ Empower every letter on the alphabet to achieve more.
 - [Skype](https://www.skype.com/)
 - [Sql Local DB](https://docs.microsoft.com/en-us/sql/database-engine/configure-windows/sql-server-2016-express-localdb)
 - [Sql Server](https://www.microsoft.com/zh-cn/sql-server/sql-server-downloads)
+- [Stream](https://play.google.com/store/apps/details?id=com.microsoft.stream)
 - [Surface](https://www.microsoft.com/zh-cn/surface)
 - [Sway](https://sway.office.com/)
 
