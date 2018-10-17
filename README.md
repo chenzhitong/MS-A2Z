@@ -50,4 +50,32 @@ Empower every letter on the alphabet to achieve more.
 ## P
 - Project
 
-QBasic, RDP, Surface, Teams, Uwp, Visio, Windows, Xbox, Yammer, Zune
+## Q
+- QBasic
+
+## R
+- Remote Desktop
+
+## S
+- Surface
+
+## T
+- Teams
+
+## U
+- UWP
+
+## V
+- Visio
+
+## W
+- Windows
+
+## X
+- Xbox
+
+## Y
+- Yammer
+
+## Z
+- Zune
