@@ -8,9 +8,12 @@ Empower every letter on the alphabet to achieve more.
 
 ## B
 - Bing
+- Band
 
 ## C
 - Cortana
+- C#
+- Cosmos DB
 
 ## D
 - Dynamics
@@ -40,9 +43,11 @@ Empower every letter on the alphabet to achieve more.
 
 ## L
 - Lync
+- Launcher
 
 ## M
 - Microsoft
+- MSN
 
 ## N
 - NuGet
@@ -51,10 +56,12 @@ Empower every letter on the alphabet to achieve more.
 - Office
 - OneNote
 - OneDrive
+- Office Lens
 
 ## P
 - Project
 - PowerPoint
+- Power BI
 
 ## Q
 - QBasic
@@ -65,9 +72,15 @@ Empower every letter on the alphabet to achieve more.
 ## S
 - Surface
 - Sway
+- SharePoint
+- Selfie
+- Sql Server
+- Sql Local DB
 
 ## T
 - Teams
+- Translator
+- To-Do List
 
 ## U
 - UWP
