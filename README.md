@@ -4,6 +4,7 @@ Empower every letter on the alphabet to achieve more.
 ## A
 - Azure
 - ASP.NET
+- Access
 
 ## B
 - Bing
@@ -16,6 +17,7 @@ Empower every letter on the alphabet to achieve more.
 
 ## E
 - Edge
+- Excel
 
 ## F
 - Forms
@@ -25,6 +27,7 @@ Empower every letter on the alphabet to achieve more.
 
 ## H
 - HoloLens
+- Hyper-V
 
 ## I
 - Intune
@@ -46,9 +49,12 @@ Empower every letter on the alphabet to achieve more.
 
 ## O
 - Office
+- OneNote
+- OneDrive
 
 ## P
 - Project
+- PowerPoint
 
 ## Q
 - QBasic
@@ -58,6 +64,7 @@ Empower every letter on the alphabet to achieve more.
 
 ## S
 - Surface
+- Sway
 
 ## T
 - Teams
@@ -67,9 +74,13 @@ Empower every letter on the alphabet to achieve more.
 
 ## V
 - Visio
+- Visual Studio
+- Visual Studio Code
 
 ## W
 - Windows
+- Windows Mobile
+- Windows Phone
 
 ## X
 - Xbox
